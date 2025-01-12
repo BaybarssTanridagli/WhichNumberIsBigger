@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\bin\Debug\WhichNumberIsBigger.exe.config
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\bin\Debug\WhichNumberIsBigger.exe
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\bin\Debug\WhichNumberIsBigger.pdb
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\obj\Debug\WhichNumberIsBigger.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\obj\Debug\WhichNumberIsBigger.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\obj\Debug\WhichNumberIsBigger.exe
+C:\Users\Lenovo\Desktop\WhichNumberIsBigger\WhichNumberIsBigger\obj\Debug\WhichNumberIsBigger.pdb
